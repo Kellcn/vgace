@@ -13,6 +13,7 @@ func main() {
 
 	filename := "./db.qa.20200426.log"
 	//ReadLine(filename)
+
 	f, _ := os.Open(filename)
 	defer f.Close()
 	r := bufio.NewReader(f)
