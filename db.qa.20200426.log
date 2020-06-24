@@ -1,0 +1,665 @@
+NOTICE 113868192 20200426 17:31:37 DataProvider.php:317 [redisconnect]
+NOTICE 113868192 20200426 17:31:37 DataProvider.php:254 [mysqlconnect]
+NOTICE 113868192 20200426 17:31:37 DataProvider.php:539 [mysqlquery]-[0.05569196]-[select brand from llp_base_commodity where `status` = 1 group by brand]
+NOTICE 113868192 20200426 17:31:37 DataProvider.php:383 RedisClosed: 0.12011194 REDIS_DB
+NOTICE 113868192 20200426 17:31:37 DataProvider.php:373 MysqlClosed: 0.09470415 MYSQL_DB
+NOTICE 117926987 20200426 17:32:18 DataProvider.php:317 [redisconnect]
+NOTICE 117926987 20200426 17:32:18 DataProvider.php:254 [mysqlconnect]
+NOTICE 117926987 20200426 17:32:18 DataProvider.php:539 [mysqlquery]-[0.00177002]-[select brand from llp_base_commodity where `status` = 1 group by brand]
+NOTICE 117926987 20200426 17:32:18 DataProvider.php:383 RedisClosed: 0.04525900 REDIS_DB
+NOTICE 117926987 20200426 17:32:18 DataProvider.php:373 MysqlClosed: 0.01277113 MYSQL_DB
+NOTICE 123709448 20200426 17:33:16 DataProvider.php:317 [redisconnect]
+NOTICE 123709448 20200426 17:33:16 DataProvider.php:254 [mysqlconnect]
+NOTICE 123709448 20200426 17:33:16 DataProvider.php:539 [mysqlquery]-[0.00162315]-[select brand from llp_base_commodity where `status` = 1 group by brand]
+NOTICE 123709448 20200426 17:33:16 DataProvider.php:383 RedisClosed: 0.02761197 REDIS_DB
+NOTICE 123709448 20200426 17:33:16 DataProvider.php:373 MysqlClosed: 0.00324202 MYSQL_DB
+NOTICE 125025601 20200426 17:33:29 DataProvider.php:317 [redisconnect]
+NOTICE 125025601 20200426 17:33:29 DataProvider.php:254 [mysqlconnect]
+NOTICE 125025601 20200426 17:33:29 DataProvider.php:539 [mysqlquery]-[0.00197315]-[select brand from llp_base_commodity where `status` = 1 group by brand]
+NOTICE 125025601 20200426 17:33:29 DataProvider.php:383 RedisClosed: 0.03585601 REDIS_DB
+NOTICE 125025601 20200426 17:33:29 DataProvider.php:373 MysqlClosed: 0.01420879 MYSQL_DB
+NOTICE 126756277 20200426 17:33:46 DataProvider.php:317 [redisconnect]
+NOTICE 126756277 20200426 17:33:46 DataProvider.php:254 [mysqlconnect]
+NOTICE 126756277 20200426 17:33:46 DataProvider.php:539 [mysqlquery]-[0.00207090]-[select brand from llp_base_commodity where `status` = 1 group by brand]
+NOTICE 126756277 20200426 17:33:46 DataProvider.php:383 RedisClosed: 0.03625298 REDIS_DB
+NOTICE 126756277 20200426 17:33:46 DataProvider.php:373 MysqlClosed: 0.01275611 MYSQL_DB
+NOTICE 127976835 20200426 17:33:58 DataProvider.php:317 [redisconnect]
+NOTICE 127976835 20200426 17:33:58 DataProvider.php:254 [mysqlconnect]
+NOTICE 127976835 20200426 17:33:58 DataProvider.php:539 [mysqlquery]-[0.00197315]-[select brand from llp_base_commodity where `status` = 1 group by brand]
+NOTICE 127976835 20200426 17:33:58 DataProvider.php:383 RedisClosed: 0.03558803 REDIS_DB
+NOTICE 127976835 20200426 17:33:58 DataProvider.php:373 MysqlClosed: 0.01369810 MYSQL_DB
+NOTICE 129413967 20200426 17:34:13 DataProvider.php:317 [redisconnect]
+NOTICE 129413967 20200426 17:34:13 DataProvider.php:254 [mysqlconnect]
+NOTICE 129413967 20200426 17:34:13 DataProvider.php:539 [mysqlquery]-[0.00166512]-[select brand from llp_base_commodity where `status` = 1 group by brand]
+NOTICE 129413967 20200426 17:34:13 DataProvider.php:383 RedisClosed: 0.03511596 REDIS_DB
+NOTICE 129413967 20200426 17:34:13 DataProvider.php:373 MysqlClosed: 0.01288199 MYSQL_DB
+NOTICE 130278481 20200426 17:34:21 DataProvider.php:317 [redisconnect]
+NOTICE 130278481 20200426 17:34:21 DataProvider.php:254 [mysqlconnect]
+NOTICE 130278481 20200426 17:34:21 DataProvider.php:539 [mysqlquery]-[0.00168300]-[select brand from llp_base_commodity where `status` = 1 group by brand]
+NOTICE 130278481 20200426 17:34:21 DataProvider.php:383 RedisClosed: 0.03528118 REDIS_DB
+NOTICE 130278481 20200426 17:34:21 DataProvider.php:373 MysqlClosed: 0.01314807 MYSQL_DB
+NOTICE 131715376 20200426 17:34:36 DataProvider.php:317 [redisconnect]
+NOTICE 131715376 20200426 17:34:36 DataProvider.php:254 [mysqlconnect]
+NOTICE 131715376 20200426 17:34:36 DataProvider.php:539 [mysqlquery]-[0.00212598]-[select brand from llp_base_commodity where `status` = 1 group by brand]
+NOTICE 131715376 20200426 17:34:36 DataProvider.php:539 [mysqlquery]-[0.01102281]-[select id,cn_name,fr_name from llp_brand where id in (0,1,2,5,6,7,8,9,12,13,14,15,16,17,18,22,23,24,25,26,27,30,31,32,35,41,45,51,52,73,77,82) order by fr_name asc, id desc limit 0, 10]
+NOTICE 131715376 20200426 17:34:36 DataProvider.php:383 RedisClosed: 0.04803681 REDIS_DB
+NOTICE 131715376 20200426 17:34:36 DataProvider.php:373 MysqlClosed: 0.02583313 MYSQL_DB
+NOTICE 132445140 20200426 17:34:43 DataProvider.php:317 [redisconnect]
+NOTICE 132445140 20200426 17:34:43 DataProvider.php:254 [mysqlconnect]
+NOTICE 132445140 20200426 17:34:43 DataProvider.php:539 [mysqlquery]-[0.00182390]-[select brand from llp_base_commodity where `status` = 1 group by brand]
+NOTICE 132445140 20200426 17:34:43 DataProvider.php:539 [mysqlquery]-[0.01222897]-[select id,cn_name,fr_name from llp_brand where id in (0,1,2,5,6,7,8,9,12,13,14,15,16,17,18,22,23,24,25,26,27,30,31,32,35,41,45,51,52,73,77,82) order by fr_name asc, id desc limit 0, 10]
+NOTICE 132445140 20200426 17:34:43 DataProvider.php:383 RedisClosed: 0.03739715 REDIS_DB
+NOTICE 132445140 20200426 17:34:43 DataProvider.php:373 MysqlClosed: 0.01596999 MYSQL_DB
+NOTICE 137043146 20200426 17:35:29 DataProvider.php:317 [redisconnect]
+NOTICE 137043146 20200426 17:35:29 DataProvider.php:254 [mysqlconnect]
+NOTICE 137043146 20200426 17:35:29 DataProvider.php:539 [mysqlquery]-[0.00178504]-[select brand from llp_base_commodity where `status` = 1 group by brand]
+NOTICE 137043146 20200426 17:35:29 DataProvider.php:539 [mysqlquery]-[0.00167298]-[select id,cn_name,fr_name from llp_brand where id in (0,1,2,5,6,7,8,9,12,13,14,15,16,17,18,22,23,24,25,26,27,30,31,32,35,41,45,51,52,73,77,82) order by fr_name asc, cn_name asc, id desc limit 0, 10]
+NOTICE 137043146 20200426 17:35:29 DataProvider.php:383 RedisClosed: 0.02657008 REDIS_DB
+NOTICE 137043146 20200426 17:35:29 DataProvider.php:373 MysqlClosed: 0.00477982 MYSQL_DB
+NOTICE 138874929 20200426 17:35:47 DataProvider.php:317 [redisconnect]
+NOTICE 138874929 20200426 17:35:47 DataProvider.php:254 [mysqlconnect]
+NOTICE 138874929 20200426 17:35:47 DataProvider.php:539 [mysqlquery]-[0.00225210]-[select brand from llp_base_commodity where `status` = 1 group by brand]
+NOTICE 138874929 20200426 17:35:47 DataProvider.php:539 [mysqlquery]-[0.01597619]-[select id,cn_name,fr_name from llp_brand where id in (0,1,2,5,6,7,8,9,12,13,14,15,16,17,18,22,23,24,25,26,27,30,31,32,35,41,45,51,52,73,77,82) order by cn_name asc, id desc limit 0, 10]
+NOTICE 138874929 20200426 17:35:47 DataProvider.php:383 RedisClosed: 0.05191398 REDIS_DB
+NOTICE 138874929 20200426 17:35:47 DataProvider.php:373 MysqlClosed: 0.03054595 MYSQL_DB
+NOTICE 141913506 20200426 17:36:18 DataProvider.php:317 [redisconnect]
+NOTICE 141913506 20200426 17:36:18 DataProvider.php:254 [mysqlconnect]
+NOTICE 141913506 20200426 17:36:18 DataProvider.php:539 [mysqlquery]-[0.00286508]-[select brand from llp_base_commodity where `status` = 1 group by brand]
+NOTICE 141913506 20200426 17:36:18 DataProvider.php:539 [mysqlquery]-[0.00199008]-[select id,cn_name,fr_name from llp_brand where id in (0,1,2,5,6,7,8,9,12,13,14,15,16,17,18,22,23,24,25,26,27,30,31,32,35,41,45,51,52,73,77,82) order by cn_name asc limit 0, 10]
+NOTICE 141913506 20200426 17:36:18 DataProvider.php:383 RedisClosed: 0.03751493 REDIS_DB
+NOTICE 141913506 20200426 17:36:18 DataProvider.php:373 MysqlClosed: 0.01613998 MYSQL_DB
+NOTICE 142856675 20200426 17:36:27 DataProvider.php:317 [redisconnect]
+NOTICE 142856675 20200426 17:36:27 DataProvider.php:254 [mysqlconnect]
+NOTICE 142856675 20200426 17:36:27 DataProvider.php:539 [mysqlquery]-[0.00539994]-[select brand from llp_base_commodity where `status` = 1 group by brand]
+NOTICE 142856675 20200426 17:36:27 DataProvider.php:539 [mysqlquery]-[0.01517391]-[select id,cn_name,fr_name from llp_brand where id in (0,1,2,5,6,7,8,9,12,13,14,15,16,17,18,22,23,24,25,26,27,30,31,32,35,41,45,51,52,73,77,82) order by cn_name desc limit 0, 10]
+NOTICE 142856675 20200426 17:36:27 DataProvider.php:383 RedisClosed: 0.05556893 REDIS_DB
+NOTICE 142856675 20200426 17:36:27 DataProvider.php:373 MysqlClosed: 0.03264189 MYSQL_DB
+NOTICE 147104860 20200426 17:37:10 DataProvider.php:317 [redisconnect]
+NOTICE 147104860 20200426 17:37:10 DataProvider.php:254 [mysqlconnect]
+NOTICE 147104860 20200426 17:37:10 DataProvider.php:539 [mysqlquery]-[0.00266981]-[select brand from llp_base_commodity where `status` = 1 group by brand]
+NOTICE 147104860 20200426 17:37:10 DataProvider.php:539 [mysqlquery]-[0.00205708]-[select id,cn_name,fr_name from llp_brand where id in (0,1,2,5,6,7,8,9,12,13,14,15,16,17,18,22,23,24,25,26,27,30,31,32,35,41,45,51,52,73,77,82) order by fr_name desc limit 0, 10]
+NOTICE 147104860 20200426 17:37:10 DataProvider.php:383 RedisClosed: 0.03787684 REDIS_DB
+NOTICE 147104860 20200426 17:37:10 DataProvider.php:373 MysqlClosed: 0.01615906 MYSQL_DB
+NOTICE 148863502 20200426 17:37:27 DataProvider.php:317 [redisconnect]
+NOTICE 148863502 20200426 17:37:27 DataProvider.php:254 [mysqlconnect]
+NOTICE 148863502 20200426 17:37:27 DataProvider.php:539 [mysqlquery]-[0.00210714]-[select brand from llp_base_commodity where `status` = 1 group by brand]
+NOTICE 148863502 20200426 17:37:27 DataProvider.php:539 [mysqlquery]-[0.00168610]-[select id,cn_name,fr_name from llp_brand where id in (0,1,2,5,6,7,8,9,12,13,14,15,16,17,18,22,23,24,25,26,27,30,31,32,35,41,45,51,52,73,77,82) order by fr_name asc limit 0, 10]
+NOTICE 148863502 20200426 17:37:27 DataProvider.php:383 RedisClosed: 0.02721786 REDIS_DB
+NOTICE 148863502 20200426 17:37:27 DataProvider.php:373 MysqlClosed: 0.00512791 MYSQL_DB
+NOTICE 150818813 20200426 17:37:47 DataProvider.php:317 [redisconnect]
+NOTICE 150818813 20200426 17:37:47 DataProvider.php:254 [mysqlconnect]
+NOTICE 150818813 20200426 17:37:47 DataProvider.php:539 [mysqlquery]-[0.00191498]-[select brand from llp_base_commodity where `status` = 1 group by brand]
+NOTICE 150818813 20200426 17:37:47 DataProvider.php:539 [mysqlquery]-[0.01126003]-[select id,cn_name,fr_name from llp_brand where id in (0,1,2,5,6,7,8,9,12,13,14,15,16,17,18,22,23,24,25,26,27,30,31,32,35,41,45,51,52,73,77,82) order by fr_name asc, cn_name asc limit 0, 10]
+NOTICE 150818813 20200426 17:37:47 DataProvider.php:383 RedisClosed: 0.04655695 REDIS_DB
+NOTICE 150818813 20200426 17:37:47 DataProvider.php:373 MysqlClosed: 0.02527094 MYSQL_DB
+NOTICE 174016540 20200426 17:41:39 DataProvider.php:317 [redisconnect]
+NOTICE 174016540 20200426 17:41:39 DataProvider.php:254 [mysqlconnect]
+NOTICE 174016540 20200426 17:41:39 DataProvider.php:539 [mysqlquery]-[0.00277090]-[select brand from llp_base_commodity where `status` = 1 group by brand]
+NOTICE 174016540 20200426 17:41:39 DataProvider.php:539 [mysqlquery]-[0.00167012]-[select id,cn_name,fr_name from llp_brand where id in (0,1,2,5,6,7,8,9,12,13,14,15,16,17,18,22,23,24,25,26,27,30,31,32,35,41,45,51,52,73,77,82) order by fr_name asc, cn_name asc limit 0, 10]
+NOTICE 174016540 20200426 17:41:39 DataProvider.php:383 RedisClosed: 0.03953791 REDIS_DB
+NOTICE 174016540 20200426 17:41:39 DataProvider.php:373 MysqlClosed: 0.01717710 MYSQL_DB
+NOTICE 178143361 20200426 17:42:20 DataProvider.php:317 [redisconnect]
+NOTICE 178143361 20200426 17:42:20 DataProvider.php:254 [mysqlconnect]
+NOTICE 178143361 20200426 17:42:20 DataProvider.php:539 [mysqlquery]-[0.00183392]-[select brand from llp_base_commodity where `status` = 1 group by brand]
+NOTICE 178143361 20200426 17:42:20 DataProvider.php:539 [mysqlquery]-[0.00198603]-[select id,cn_name,fr_name from llp_brand where id in (0,1,2,5,6,7,8,9,12,13,14,15,16,17,18,22,23,24,25,26,27,30,31,32,35,41,45,51,52,73,77,82) order by fr_name asc, cn_name asc limit 0, 10]
+NOTICE 178143361 20200426 17:42:20 DataProvider.php:383 RedisClosed: 0.04570198 REDIS_DB
+NOTICE 178143361 20200426 17:42:20 DataProvider.php:373 MysqlClosed: 0.01636600 MYSQL_DB
+NOTICE 1056987919 20200426 20:08:48 DataProvider.php:317 [redisconnect]
+NOTICE 1056987919 20200426 20:08:48 DataProvider.php:254 [mysqlconnect]
+NOTICE 1056987919 20200426 20:08:48 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1056987919 20200426 20:08:48 DataProvider.php:383 RedisClosed: 0.09055710 REDIS_DB
+NOTICE 1056987919 20200426 20:08:48 DataProvider.php:373 MysqlClosed: 0.06169605 MYSQL_DB
+NOTICE 1427837968 20200426 21:10:37 DataProvider.php:317 [redisconnect]
+NOTICE 1427837968 20200426 21:10:37 DataProvider.php:254 [mysqlconnect]
+NOTICE 1427837968 20200426 21:10:37 DataProvider.php:383 RedisClosed: 0.03342104 REDIS_DB
+NOTICE 1427837968 20200426 21:10:37 DataProvider.php:373 MysqlClosed: 0.00155401 MYSQL_DB
+NOTICE 1442911688 20200426 21:13:08 DataProvider.php:317 [redisconnect]
+NOTICE 1442911688 20200426 21:13:08 DataProvider.php:254 [mysqlconnect]
+NOTICE 1442911688 20200426 21:13:08 DataProvider.php:539 [mysqlquery]-[0.05324793]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1442911688 20200426 21:13:08 DataProvider.php:383 RedisClosed: 0.10332799 REDIS_DB
+NOTICE 1442911688 20200426 21:13:08 DataProvider.php:373 MysqlClosed: 0.05590296 MYSQL_DB
+NOTICE 1443966732 20200426 21:13:18 DataProvider.php:317 [redisconnect]
+NOTICE 1443966732 20200426 21:13:18 DataProvider.php:254 [mysqlconnect]
+NOTICE 1443966732 20200426 21:13:18 DataProvider.php:539 [mysqlquery]-[0.00340796]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1443966732 20200426 21:13:18 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1443966732 20200426 21:13:18 DataProvider.php:383 RedisClosed: 0.17581201 REDIS_DB
+NOTICE 1443966732 20200426 21:13:18 DataProvider.php:373 MysqlClosed: 0.13120294 MYSQL_DB
+NOTICE 1445477273 20200426 21:13:33 DataProvider.php:317 [redisconnect]
+NOTICE 1445477273 20200426 21:13:33 DataProvider.php:254 [mysqlconnect]
+NOTICE 1445477273 20200426 21:13:33 DataProvider.php:539 [mysqlquery]-[0.00360298]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1445477273 20200426 21:13:33 DataProvider.php:383 RedisClosed: 0.06134987 REDIS_DB
+NOTICE 1445477273 20200426 21:13:33 DataProvider.php:373 MysqlClosed: 0.01539493 MYSQL_DB
+NOTICE 1447010624 20200426 21:13:49 DataProvider.php:317 [redisconnect]
+NOTICE 1447010624 20200426 21:13:49 DataProvider.php:254 [mysqlconnect]
+NOTICE 1447010624 20200426 21:13:49 DataProvider.php:539 [mysqlquery]-[0.00411391]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1447010624 20200426 21:13:49 DataProvider.php:383 RedisClosed: 0.06840611 REDIS_DB
+NOTICE 1447010624 20200426 21:13:49 DataProvider.php:373 MysqlClosed: 0.02028584 MYSQL_DB
+NOTICE 1450377646 20200426 21:14:22 DataProvider.php:317 [redisconnect]
+NOTICE 1450377646 20200426 21:14:22 DataProvider.php:254 [mysqlconnect]
+NOTICE 1450377646 20200426 21:14:22 DataProvider.php:539 [mysqlquery]-[0.00368309]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1450377646 20200426 21:14:22 DataProvider.php:383 RedisClosed: 0.05340695 REDIS_DB
+NOTICE 1450377646 20200426 21:14:22 DataProvider.php:373 MysqlClosed: 0.01998496 MYSQL_DB
+NOTICE 1452698569 20200426 21:14:45 DataProvider.php:317 [redisconnect]
+NOTICE 1452698569 20200426 21:14:46 DataProvider.php:254 [mysqlconnect]
+NOTICE 1452698569 20200426 21:14:46 DataProvider.php:539 [mysqlquery]-[0.00335503]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1452698569 20200426 21:14:46 DataProvider.php:383 RedisClosed: 0.05339909 REDIS_DB
+NOTICE 1452698569 20200426 21:14:46 DataProvider.php:373 MysqlClosed: 0.00540304 MYSQL_DB
+NOTICE 1454700556 20200426 21:15:06 DataProvider.php:317 [redisconnect]
+NOTICE 1454700556 20200426 21:15:06 DataProvider.php:254 [mysqlconnect]
+NOTICE 1454700556 20200426 21:15:06 DataProvider.php:539 [mysqlquery]-[0.00345206]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1454700556 20200426 21:15:06 DataProvider.php:383 RedisClosed: 0.04437685 REDIS_DB
+NOTICE 1454700556 20200426 21:15:06 DataProvider.php:373 MysqlClosed: 0.01624608 MYSQL_DB
+NOTICE 1460653347 20200426 21:16:05 DataProvider.php:317 [redisconnect]
+NOTICE 1460653347 20200426 21:16:05 DataProvider.php:254 [mysqlconnect]
+NOTICE 1460653347 20200426 21:16:05 DataProvider.php:539 [mysqlquery]-[0.00316000]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1460653347 20200426 21:16:05 DataProvider.php:383 RedisClosed: 0.05270314 REDIS_DB
+NOTICE 1460653347 20200426 21:16:05 DataProvider.php:373 MysqlClosed: 0.00548720 MYSQL_DB
+NOTICE 1468711721 20200426 21:17:26 DataProvider.php:317 [redisconnect]
+NOTICE 1468711721 20200426 21:17:26 DataProvider.php:254 [mysqlconnect]
+NOTICE 1468711721 20200426 21:17:26 DataProvider.php:539 [mysqlquery]-[0.05089712]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1468711721 20200426 21:17:26 DataProvider.php:383 RedisClosed: 0.10104108 REDIS_DB
+NOTICE 1468711721 20200426 21:17:26 DataProvider.php:373 MysqlClosed: 0.06242299 MYSQL_DB
+NOTICE 1469862460 20200426 21:17:37 DataProvider.php:317 [redisconnect]
+NOTICE 1469862460 20200426 21:17:37 DataProvider.php:254 [mysqlconnect]
+NOTICE 1469862460 20200426 21:17:37 DataProvider.php:539 [mysqlquery]-[0.00359702]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1469862460 20200426 21:17:37 DataProvider.php:539 [mysqlquery]-[0.00403309]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (1407,9,1404,42,32,61,6,1405,29,31,8,63,12,3,58,23,24,21,37,4,7) and `status`=1]
+NOTICE 1469862460 20200426 21:17:37 DataProvider.php:383 RedisClosed: 0.05606604 REDIS_DB
+NOTICE 1469862460 20200426 21:17:37 DataProvider.php:373 MysqlClosed: 0.01006103 MYSQL_DB
+NOTICE 1470631803 20200426 21:17:45 DataProvider.php:317 [redisconnect]
+NOTICE 1470631803 20200426 21:17:45 DataProvider.php:254 [mysqlconnect]
+NOTICE 1470631803 20200426 21:17:45 DataProvider.php:539 [mysqlquery]-[0.00360513]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1470631803 20200426 21:17:45 DataProvider.php:539 [mysqlquery]-[0.00366902]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (1407,9,1404,42,32,61,6,1405,29,31,8,63,12,3,58,23,24,21,37,4,7) and `status`=1]
+NOTICE 1470631803 20200426 21:17:45 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1470631803 20200426 21:17:45 DataProvider.php:383 RedisClosed: 0.15834689 REDIS_DB
+NOTICE 1470631803 20200426 21:17:45 DataProvider.php:373 MysqlClosed: 0.12134099 MYSQL_DB
+NOTICE 1473854685 20200426 21:18:17 DataProvider.php:317 [redisconnect]
+NOTICE 1473854685 20200426 21:18:17 DataProvider.php:254 [mysqlconnect]
+NOTICE 1473854685 20200426 21:18:17 DataProvider.php:539 [mysqlquery]-[0.04878402]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1473854685 20200426 21:18:17 DataProvider.php:539 [mysqlquery]-[0.00159717]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (1407,9,1404,42,32,61,6,1405,29,31,8,63,12,3,58,23,24,21,37,4,7) and `status`=1]
+NOTICE 1473854685 20200426 21:18:17 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1473854685 20200426 21:18:17 DataProvider.php:383 RedisClosed: 0.09990788 REDIS_DB
+NOTICE 1473854685 20200426 21:18:17 DataProvider.php:373 MysqlClosed: 0.07929993 MYSQL_DB
+NOTICE 1475378559 20200426 21:18:32 DataProvider.php:317 [redisconnect]
+NOTICE 1475378559 20200426 21:18:32 DataProvider.php:254 [mysqlconnect]
+NOTICE 1475378559 20200426 21:18:32 DataProvider.php:539 [mysqlquery]-[0.00353980]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1475378559 20200426 21:18:32 DataProvider.php:539 [mysqlquery]-[0.00367594]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (1407,9,1404,42,32,61,6,1405,29,31,8,63,12,3,58,23,24,21,37,4,7) and `status`=1]
+NOTICE 1475378559 20200426 21:18:32 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1475378559 20200426 21:18:32 DataProvider.php:383 RedisClosed: 0.07623601 REDIS_DB
+NOTICE 1475378559 20200426 21:18:32 DataProvider.php:373 MysqlClosed: 0.04580808 MYSQL_DB
+NOTICE 1476911686 20200426 21:18:48 DataProvider.php:317 [redisconnect]
+NOTICE 1476911686 20200426 21:18:48 DataProvider.php:254 [mysqlconnect]
+NOTICE 1476911686 20200426 21:18:48 DataProvider.php:539 [mysqlquery]-[0.00365782]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1476911686 20200426 21:18:48 DataProvider.php:539 [mysqlquery]-[0.00386596]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (1407,9,1404,42,32,61,6,1405,29,31,8,63,12,3,58,23,24,21,37,4,7) and `status`=1]
+NOTICE 1476911686 20200426 21:18:48 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1476911686 20200426 21:18:48 DataProvider.php:383 RedisClosed: 0.11361885 REDIS_DB
+NOTICE 1476911686 20200426 21:18:48 DataProvider.php:373 MysqlClosed: 0.08104110 MYSQL_DB
+NOTICE 1482910333 20200426 21:19:48 DataProvider.php:317 [redisconnect]
+NOTICE 1482910333 20200426 21:19:48 DataProvider.php:254 [mysqlconnect]
+NOTICE 1482910333 20200426 21:19:48 DataProvider.php:539 [mysqlquery]-[0.00286293]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1482910333 20200426 21:19:48 DataProvider.php:539 [mysqlquery]-[0.00361395]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (1407,9,1404,42,32,61,6,1405,29,31,8,63,12,3,58,23,24,21,37,4,7) and `status`=1]
+NOTICE 1482910333 20200426 21:19:48 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1482910333 20200426 21:19:48 DataProvider.php:383 RedisClosed: 0.17604184 REDIS_DB
+NOTICE 1482910333 20200426 21:19:48 DataProvider.php:373 MysqlClosed: 0.13076591 MYSQL_DB
+NOTICE 1491091600 20200426 21:21:09 DataProvider.php:317 [redisconnect]
+NOTICE 1491091600 20200426 21:21:09 DataProvider.php:254 [mysqlconnect]
+NOTICE 1491091600 20200426 21:21:09 DataProvider.php:539 [mysqlquery]-[0.00372505]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1491091600 20200426 21:21:09 DataProvider.php:539 [mysqlquery]-[0.00371695]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (1407,9,1404,42,32,61,6,1405,29,31,8,63,12,3,58,23,24,21,37,4,7) and `status`=1]
+NOTICE 1491091600 20200426 21:21:10 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1491091600 20200426 21:21:10 DataProvider.php:383 RedisClosed: 0.11579013 REDIS_DB
+NOTICE 1491091600 20200426 21:21:10 DataProvider.php:373 MysqlClosed: 0.06810880 MYSQL_DB
+NOTICE 1499645311 20200426 21:22:35 DataProvider.php:317 [redisconnect]
+NOTICE 1499645311 20200426 21:22:35 DataProvider.php:254 [mysqlconnect]
+NOTICE 1499645311 20200426 21:22:35 DataProvider.php:539 [mysqlquery]-[0.00364995]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1499645311 20200426 21:22:35 DataProvider.php:539 [mysqlquery]-[0.00305200]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (1407,9,1404,42,32,61,6,1405,29,31,8,63,12,3,58,23,24,21,37,4,7) and `status`=1]
+NOTICE 1499645311 20200426 21:22:35 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1499645311 20200426 21:22:35 DataProvider.php:383 RedisClosed: 0.08980107 REDIS_DB
+NOTICE 1499645311 20200426 21:22:35 DataProvider.php:373 MysqlClosed: 0.03962207 MYSQL_DB
+NOTICE 1505485366 20200426 21:23:33 DataProvider.php:317 [redisconnect]
+NOTICE 1505485366 20200426 21:23:33 DataProvider.php:254 [mysqlconnect]
+NOTICE 1505485366 20200426 21:23:33 DataProvider.php:539 [mysqlquery]-[0.00384808]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1505485366 20200426 21:23:33 DataProvider.php:539 [mysqlquery]-[0.00375605]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (1407,9,1404,42,32,61,6,1405,29,31,8,63,12,3,58,23,24,21,37,4,7) and `status`=1]
+NOTICE 1505485366 20200426 21:23:33 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1505485366 20200426 21:23:33 DataProvider.php:383 RedisClosed: 0.10518813 REDIS_DB
+NOTICE 1505485366 20200426 21:23:33 DataProvider.php:373 MysqlClosed: 0.06288195 MYSQL_DB
+NOTICE 1508739224 20200426 21:24:06 DataProvider.php:317 [redisconnect]
+NOTICE 1508739224 20200426 21:24:06 DataProvider.php:254 [mysqlconnect]
+NOTICE 1508739224 20200426 21:24:06 DataProvider.php:539 [mysqlquery]-[0.00191998]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1508739224 20200426 21:24:06 DataProvider.php:539 [mysqlquery]-[0.00159407]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (1407,9,1404,42,32,61,6,1405,29,31,8,63,12,3,58,23,24,21,37,4,7) and `status`=1]
+NOTICE 1508739224 20200426 21:24:06 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1508739224 20200426 21:24:06 DataProvider.php:383 RedisClosed: 0.04456091 REDIS_DB
+NOTICE 1508739224 20200426 21:24:06 DataProvider.php:373 MysqlClosed: 0.02279401 MYSQL_DB
+NOTICE 1510513992 20200426 21:24:24 DataProvider.php:317 [redisconnect]
+NOTICE 1510513992 20200426 21:24:24 DataProvider.php:254 [mysqlconnect]
+NOTICE 1510513992 20200426 21:24:24 DataProvider.php:539 [mysqlquery]-[0.00303912]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1510513992 20200426 21:24:24 DataProvider.php:539 [mysqlquery]-[0.00321698]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (1407,9,1404,42,32,61,6,1405,29,31,8,63,12,3,58,23,24,21,37,4,7) and `status`=1]
+NOTICE 1510513992 20200426 21:24:24 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1510513992 20200426 21:24:24 DataProvider.php:383 RedisClosed: 0.10607910 REDIS_DB
+NOTICE 1510513992 20200426 21:24:24 DataProvider.php:373 MysqlClosed: 0.05791497 MYSQL_DB
+NOTICE 1511480309 20200426 21:24:33 DataProvider.php:317 [redisconnect]
+NOTICE 1511480309 20200426 21:24:33 DataProvider.php:254 [mysqlconnect]
+NOTICE 1511480309 20200426 21:24:33 DataProvider.php:539 [mysqlquery]-[0.00321889]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1511480309 20200426 21:24:33 DataProvider.php:539 [mysqlquery]-[0.00346994]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (1407,9,1404,42,32,61,6,1405,29,31,8,63,12,3,58,23,24,21,37,4,7) and `status`=1]
+NOTICE 1511480309 20200426 21:24:33 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1511480309 20200426 21:24:33 DataProvider.php:383 RedisClosed: 0.08881402 REDIS_DB
+NOTICE 1511480309 20200426 21:24:33 DataProvider.php:373 MysqlClosed: 0.04343605 MYSQL_DB
+NOTICE 1512614961 20200426 21:24:45 DataProvider.php:317 [redisconnect]
+NOTICE 1512614961 20200426 21:24:45 DataProvider.php:254 [mysqlconnect]
+NOTICE 1512614961 20200426 21:24:45 DataProvider.php:539 [mysqlquery]-[0.00362420]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1512614961 20200426 21:24:45 DataProvider.php:539 [mysqlquery]-[0.00392795]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (1407,9,1404,42,32,61,6,1405,29,31,8,63,12,3,58,23,24,21,37,4,7) and `status`=1]
+NOTICE 1512614961 20200426 21:24:45 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1512614961 20200426 21:24:45 DataProvider.php:539 [mysqlquery]-[0.04976988]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,4504,3581) and `status` =1]
+NOTICE 1512614961 20200426 21:24:45 DataProvider.php:383 RedisClosed: 0.15479708 REDIS_DB
+NOTICE 1512614961 20200426 21:24:45 DataProvider.php:373 MysqlClosed: 0.11013913 MYSQL_DB
+NOTICE 1515061334 20200426 21:25:09 DataProvider.php:317 [redisconnect]
+NOTICE 1515061334 20200426 21:25:09 DataProvider.php:254 [mysqlconnect]
+NOTICE 1515061334 20200426 21:25:09 DataProvider.php:539 [mysqlquery]-[0.00331497]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1515061334 20200426 21:25:09 DataProvider.php:539 [mysqlquery]-[0.00305700]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (1407,9,1404,42,32,61,6,1405,29,31,8,63,12,3,58,23,24,21,37,4,7) and `status`=1]
+NOTICE 1515061334 20200426 21:25:09 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1515061334 20200426 21:25:09 DataProvider.php:539 [mysqlquery]-[0.00191617]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,4504,3581) and `status` =1]
+NOTICE 1515061334 20200426 21:25:09 DataProvider.php:383 RedisClosed: 0.08135390 REDIS_DB
+NOTICE 1515061334 20200426 21:25:09 DataProvider.php:373 MysqlClosed: 0.04976487 MYSQL_DB
+NOTICE 1517416785 20200426 21:25:33 DataProvider.php:317 [redisconnect]
+NOTICE 1517416785 20200426 21:25:33 DataProvider.php:254 [mysqlconnect]
+NOTICE 1517416785 20200426 21:25:33 DataProvider.php:539 [mysqlquery]-[0.00356603]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1517416785 20200426 21:25:33 DataProvider.php:539 [mysqlquery]-[0.00361705]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (1407,9,1404,42,32,61,6,1405,29,31,8,63,12,3,58,23,24,21,37,4,7) and `status`=1]
+NOTICE 1517416785 20200426 21:25:33 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1517416785 20200426 21:25:33 DataProvider.php:539 [mysqlquery]-[0.00382996]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,4504,3581) and `status` =1]
+NOTICE 1517416785 20200426 21:25:33 DataProvider.php:383 RedisClosed: 0.11096787 REDIS_DB
+NOTICE 1517416785 20200426 21:25:33 DataProvider.php:373 MysqlClosed: 0.06386900 MYSQL_DB
+NOTICE 1529076428 20200426 21:27:29 DataProvider.php:317 [redisconnect]
+NOTICE 1529076428 20200426 21:27:29 DataProvider.php:254 [mysqlconnect]
+NOTICE 1529076428 20200426 21:27:29 DataProvider.php:539 [mysqlquery]-[0.00413489]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1529076428 20200426 21:27:29 DataProvider.php:539 [mysqlquery]-[0.00372481]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (1407,9,1404,42,32,61,6,1405,29,31,8,63,12,3,58,23,24,21,37,4,7) and `status`=1]
+NOTICE 1529076428 20200426 21:27:29 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1529076428 20200426 21:27:29 DataProvider.php:539 [mysqlquery]-[0.00372601]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,4504,3581) and `status` =1]
+NOTICE 1529076428 20200426 21:27:29 DataProvider.php:383 RedisClosed: 0.11832881 REDIS_DB
+NOTICE 1529076428 20200426 21:27:29 DataProvider.php:373 MysqlClosed: 0.06966496 MYSQL_DB
+NOTICE 1531619335 20200426 21:27:55 DataProvider.php:317 [redisconnect]
+NOTICE 1531619335 20200426 21:27:55 DataProvider.php:254 [mysqlconnect]
+NOTICE 1531619335 20200426 21:27:55 DataProvider.php:539 [mysqlquery]-[0.00487614]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1531619335 20200426 21:27:55 DataProvider.php:539 [mysqlquery]-[0.00493002]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (1407,9,1404,42,32,61,6,1405,29,31,8,63,12,3,58,23,24,21,37,4,7) and `status`=1]
+NOTICE 1531619335 20200426 21:27:55 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1531619335 20200426 21:27:55 DataProvider.php:539 [mysqlquery]-[0.00390005]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,4504,3581) and `status` =1]
+NOTICE 1531619335 20200426 21:27:55 DataProvider.php:383 RedisClosed: 0.10499001 REDIS_DB
+NOTICE 1531619335 20200426 21:27:55 DataProvider.php:373 MysqlClosed: 0.06071281 MYSQL_DB
+NOTICE 1532497770 20200426 21:28:03 DataProvider.php:317 [redisconnect]
+NOTICE 1532497770 20200426 21:28:04 DataProvider.php:254 [mysqlconnect]
+NOTICE 1532497770 20200426 21:28:04 DataProvider.php:539 [mysqlquery]-[0.00338078]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1532497770 20200426 21:28:04 DataProvider.php:539 [mysqlquery]-[0.00328898]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (1407,9,1404,42,32,61,6,1405,29,31,8,63,12,3,58,23,24,21,37,4,7) and `status`=1]
+NOTICE 1532497770 20200426 21:28:04 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1532497770 20200426 21:28:04 DataProvider.php:539 [mysqlquery]-[0.00380898]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,4504,3581) and `status` =1]
+NOTICE 1532497770 20200426 21:28:04 DataProvider.php:383 RedisClosed: 0.09560299 REDIS_DB
+NOTICE 1532497770 20200426 21:28:04 DataProvider.php:373 MysqlClosed: 0.05325794 MYSQL_DB
+NOTICE 1545485087 20200426 21:30:13 DataProvider.php:317 [redisconnect]
+NOTICE 1545485087 20200426 21:30:13 DataProvider.php:254 [mysqlconnect]
+NOTICE 1545485087 20200426 21:30:13 DataProvider.php:539 [mysqlquery]-[0.04843903]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1545485087 20200426 21:30:13 DataProvider.php:539 [mysqlquery]-[0.00665593]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (1407,9,1404,42,32,61,6,1405,29,31,8,63,12,3,58,23,24,21,37,4,7) and `status`=1]
+NOTICE 1545485087 20200426 21:30:13 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1545485087 20200426 21:30:13 DataProvider.php:539 [mysqlquery]-[0.02101302]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,4504,3581) and `status` =1]
+NOTICE 1545485087 20200426 21:30:14 DataProvider.php:383 RedisClosed: 0.14558005 REDIS_DB
+NOTICE 1545485087 20200426 21:30:14 DataProvider.php:373 MysqlClosed: 0.11945486 MYSQL_DB
+NOTICE 1550006103 20200426 21:30:59 DataProvider.php:317 [redisconnect]
+NOTICE 1550006103 20200426 21:30:59 DataProvider.php:254 [mysqlconnect]
+NOTICE 1550006103 20200426 21:30:59 DataProvider.php:539 [mysqlquery]-[0.00197506]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1550006103 20200426 21:30:59 DataProvider.php:539 [mysqlquery]-[0.00182605]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (1407,9,1404,42,32,61,6,1405,29,31,8,63,12,3,58,23,24,21,37,4,7) and `status`=1]
+NOTICE 1550006103 20200426 21:30:59 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1550006103 20200426 21:30:59 DataProvider.php:539 [mysqlquery]-[0.00230312]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,4504,3581) and `status` =1]
+NOTICE 1550006103 20200426 21:30:59 DataProvider.php:383 RedisClosed: 0.07753992 REDIS_DB
+NOTICE 1550006103 20200426 21:30:59 DataProvider.php:373 MysqlClosed: 0.04366589 MYSQL_DB
+NOTICE 1557822319 20200426 21:32:17 DataProvider.php:317 [redisconnect]
+NOTICE 1557822319 20200426 21:32:17 DataProvider.php:254 [mysqlconnect]
+NOTICE 1557822319 20200426 21:32:17 DataProvider.php:539 [mysqlquery]-[0.05155611]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1557822319 20200426 21:32:17 DataProvider.php:539 [mysqlquery]-[0.00379395]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1557822319 20200426 21:32:17 DataProvider.php:539 [mysqlquery]-[0.00452900]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1557822319 20200426 21:32:17 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1557822319 20200426 21:32:17 DataProvider.php:539 [mysqlquery]-[0.00673509]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1557822319 20200426 21:32:17 DataProvider.php:383 RedisClosed: 0.15508008 REDIS_DB
+NOTICE 1557822319 20200426 21:32:17 DataProvider.php:373 MysqlClosed: 0.11621094 MYSQL_DB
+NOTICE 1571006056 20200426 21:34:29 DataProvider.php:317 [redisconnect]
+NOTICE 1571006056 20200426 21:34:29 DataProvider.php:254 [mysqlconnect]
+NOTICE 1571006056 20200426 21:34:29 DataProvider.php:539 [mysqlquery]-[0.00206399]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1571006056 20200426 21:34:29 DataProvider.php:539 [mysqlquery]-[0.00169706]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1571006056 20200426 21:34:29 DataProvider.php:539 [mysqlquery]-[0.00192404]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1571006056 20200426 21:34:29 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1571006056 20200426 21:34:29 DataProvider.php:539 [mysqlquery]-[0.00201321]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1571006056 20200426 21:34:29 DataProvider.php:383 RedisClosed: 0.05352712 REDIS_DB
+NOTICE 1571006056 20200426 21:34:29 DataProvider.php:373 MysqlClosed: 0.03106308 MYSQL_DB
+NOTICE 1578802265 20200426 21:35:47 DataProvider.php:317 [redisconnect]
+NOTICE 1578802265 20200426 21:35:47 DataProvider.php:254 [mysqlconnect]
+NOTICE 1578802265 20200426 21:35:47 DataProvider.php:539 [mysqlquery]-[0.00347710]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1578802265 20200426 21:35:47 DataProvider.php:539 [mysqlquery]-[0.00359488]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1578802265 20200426 21:35:47 DataProvider.php:539 [mysqlquery]-[0.00506306]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1578802265 20200426 21:35:47 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1578802265 20200426 21:35:47 DataProvider.php:539 [mysqlquery]-[0.00424504]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1578802265 20200426 21:35:47 DataProvider.php:383 RedisClosed: 0.10838199 REDIS_DB
+NOTICE 1578802265 20200426 21:35:47 DataProvider.php:373 MysqlClosed: 0.06131411 MYSQL_DB
+NOTICE 1580047915 20200426 21:35:59 DataProvider.php:317 [redisconnect]
+NOTICE 1580047915 20200426 21:35:59 DataProvider.php:254 [mysqlconnect]
+NOTICE 1580047915 20200426 21:35:59 DataProvider.php:539 [mysqlquery]-[0.00269008]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1580047915 20200426 21:35:59 DataProvider.php:539 [mysqlquery]-[0.00320196]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1580047915 20200426 21:35:59 DataProvider.php:539 [mysqlquery]-[0.00302696]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1580047915 20200426 21:35:59 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1580047915 20200426 21:35:59 DataProvider.php:539 [mysqlquery]-[0.00212598]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1580047915 20200426 21:35:59 DataProvider.php:383 RedisClosed: 0.09349322 REDIS_DB
+NOTICE 1580047915 20200426 21:35:59 DataProvider.php:373 MysqlClosed: 0.03932905 MYSQL_DB
+NOTICE 1581429738 20200426 21:36:13 DataProvider.php:317 [redisconnect]
+NOTICE 1581429738 20200426 21:36:13 DataProvider.php:254 [mysqlconnect]
+NOTICE 1581429738 20200426 21:36:13 DataProvider.php:539 [mysqlquery]-[0.00372219]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1581429738 20200426 21:36:13 DataProvider.php:539 [mysqlquery]-[0.00361609]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1581429738 20200426 21:36:13 DataProvider.php:539 [mysqlquery]-[0.00300717]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1581429738 20200426 21:36:13 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1581429738 20200426 21:36:13 DataProvider.php:539 [mysqlquery]-[0.00344706]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1581429738 20200426 21:36:13 DataProvider.php:383 RedisClosed: 0.11420107 REDIS_DB
+NOTICE 1581429738 20200426 21:36:13 DataProvider.php:373 MysqlClosed: 0.06587219 MYSQL_DB
+NOTICE 1590005392 20200426 21:37:39 DataProvider.php:317 [redisconnect]
+NOTICE 1590005392 20200426 21:37:39 DataProvider.php:254 [mysqlconnect]
+NOTICE 1590005392 20200426 21:37:39 DataProvider.php:539 [mysqlquery]-[0.00191498]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1590005392 20200426 21:37:39 DataProvider.php:539 [mysqlquery]-[0.00161099]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1590005392 20200426 21:37:39 DataProvider.php:539 [mysqlquery]-[0.00165296]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1590005392 20200426 21:37:39 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1590005392 20200426 21:37:39 DataProvider.php:539 [mysqlquery]-[0.00257897]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1590005392 20200426 21:37:39 DataProvider.php:383 RedisClosed: 0.11055899 REDIS_DB
+NOTICE 1590005392 20200426 21:37:39 DataProvider.php:373 MysqlClosed: 0.08397603 MYSQL_DB
+NOTICE 1591645023 20200426 21:37:55 DataProvider.php:317 [redisconnect]
+NOTICE 1591645023 20200426 21:37:55 DataProvider.php:254 [mysqlconnect]
+NOTICE 1591645023 20200426 21:37:55 DataProvider.php:539 [mysqlquery]-[0.00387597]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1591645023 20200426 21:37:55 DataProvider.php:539 [mysqlquery]-[0.00331497]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1591645023 20200426 21:37:55 DataProvider.php:539 [mysqlquery]-[0.00372100]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1591645023 20200426 21:37:55 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1591645023 20200426 21:37:55 DataProvider.php:539 [mysqlquery]-[0.00386286]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1591645023 20200426 21:37:55 DataProvider.php:383 RedisClosed: 0.11485696 REDIS_DB
+NOTICE 1591645023 20200426 21:37:55 DataProvider.php:373 MysqlClosed: 0.07200885 MYSQL_DB
+NOTICE 1615542612 20200426 21:41:54 DataProvider.php:317 [redisconnect]
+NOTICE 1615542612 20200426 21:41:54 DataProvider.php:254 [mysqlconnect]
+NOTICE 1615542612 20200426 21:41:54 DataProvider.php:539 [mysqlquery]-[0.00375581]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1615542612 20200426 21:41:54 DataProvider.php:539 [mysqlquery]-[0.00333285]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1615542612 20200426 21:41:54 DataProvider.php:539 [mysqlquery]-[0.00339985]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1615542612 20200426 21:41:54 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1615542612 20200426 21:41:54 DataProvider.php:539 [mysqlquery]-[0.00189495]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1615542612 20200426 21:41:54 DataProvider.php:383 RedisClosed: 0.15248108 REDIS_DB
+NOTICE 1615542612 20200426 21:41:54 DataProvider.php:373 MysqlClosed: 0.10143518 MYSQL_DB
+NOTICE 1617367615 20200426 21:42:12 DataProvider.php:317 [redisconnect]
+NOTICE 1617367615 20200426 21:42:12 DataProvider.php:254 [mysqlconnect]
+NOTICE 1617367615 20200426 21:42:12 DataProvider.php:539 [mysqlquery]-[0.00340199]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1617367615 20200426 21:42:12 DataProvider.php:539 [mysqlquery]-[0.00326180]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1617367615 20200426 21:42:12 DataProvider.php:539 [mysqlquery]-[0.00375199]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1617367615 20200426 21:42:12 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1617367615 20200426 21:42:12 DataProvider.php:539 [mysqlquery]-[0.00227189]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1617367615 20200426 21:42:12 DataProvider.php:383 RedisClosed: 0.09758806 REDIS_DB
+NOTICE 1617367615 20200426 21:42:12 DataProvider.php:373 MysqlClosed: 0.04974985 MYSQL_DB
+NOTICE 1617590740 20200426 21:42:14 DataProvider.php:317 [redisconnect]
+NOTICE 1617590740 20200426 21:42:14 DataProvider.php:254 [mysqlconnect]
+NOTICE 1617590740 20200426 21:42:14 DataProvider.php:539 [mysqlquery]-[0.00371790]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1617590740 20200426 21:42:14 DataProvider.php:539 [mysqlquery]-[0.00416613]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1617590740 20200426 21:42:14 DataProvider.php:539 [mysqlquery]-[0.00407195]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1617590740 20200426 21:42:15 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1617590740 20200426 21:42:15 DataProvider.php:539 [mysqlquery]-[0.00390911]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1617590740 20200426 21:42:15 DataProvider.php:383 RedisClosed: 0.09919500 REDIS_DB
+NOTICE 1617590740 20200426 21:42:15 DataProvider.php:373 MysqlClosed: 0.07282305 MYSQL_DB
+NOTICE 1624292485 20200426 21:43:21 DataProvider.php:317 [redisconnect]
+NOTICE 1624292485 20200426 21:43:21 DataProvider.php:254 [mysqlconnect]
+NOTICE 1624292485 20200426 21:43:21 DataProvider.php:539 [mysqlquery]-[0.00397301]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1624292485 20200426 21:43:21 DataProvider.php:539 [mysqlquery]-[0.00408387]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1624292485 20200426 21:43:22 DataProvider.php:539 [mysqlquery]-[0.00733209]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1624292485 20200426 21:43:22 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1624292485 20200426 21:43:22 DataProvider.php:539 [mysqlquery]-[0.00584888]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1624292485 20200426 21:43:22 DataProvider.php:383 RedisClosed: 0.13238788 REDIS_DB
+NOTICE 1624292485 20200426 21:43:22 DataProvider.php:373 MysqlClosed: 0.08412194 MYSQL_DB
+NOTICE 1625609695 20200426 21:43:35 DataProvider.php:317 [redisconnect]
+NOTICE 1625609695 20200426 21:43:35 DataProvider.php:254 [mysqlconnect]
+NOTICE 1625609695 20200426 21:43:35 DataProvider.php:539 [mysqlquery]-[0.00383806]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1625609695 20200426 21:43:35 DataProvider.php:539 [mysqlquery]-[0.00392103]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1625609695 20200426 21:43:35 DataProvider.php:539 [mysqlquery]-[0.00377703]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1625609695 20200426 21:43:35 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1625609695 20200426 21:43:35 DataProvider.php:539 [mysqlquery]-[0.00398993]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1625609695 20200426 21:43:35 DataProvider.php:383 RedisClosed: 0.10357499 REDIS_DB
+NOTICE 1625609695 20200426 21:43:35 DataProvider.php:373 MysqlClosed: 0.07282019 MYSQL_DB
+NOTICE 1626426084 20200426 21:43:43 DataProvider.php:317 [redisconnect]
+NOTICE 1626426084 20200426 21:43:43 DataProvider.php:254 [mysqlconnect]
+NOTICE 1626426084 20200426 21:43:43 DataProvider.php:539 [mysqlquery]-[0.00369310]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1626426084 20200426 21:43:43 DataProvider.php:539 [mysqlquery]-[0.00344801]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1626426084 20200426 21:43:43 DataProvider.php:539 [mysqlquery]-[0.00364399]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1626426084 20200426 21:43:43 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1626426084 20200426 21:43:43 DataProvider.php:539 [mysqlquery]-[0.00355601]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1626426084 20200426 21:43:43 DataProvider.php:383 RedisClosed: 0.09104705 REDIS_DB
+NOTICE 1626426084 20200426 21:43:43 DataProvider.php:373 MysqlClosed: 0.06601310 MYSQL_DB
+NOTICE 1629245929 20200426 21:44:11 DataProvider.php:317 [redisconnect]
+NOTICE 1629245929 20200426 21:44:11 DataProvider.php:254 [mysqlconnect]
+NOTICE 1629245929 20200426 21:44:11 DataProvider.php:539 [mysqlquery]-[0.00315189]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1629245929 20200426 21:44:11 DataProvider.php:539 [mysqlquery]-[0.00307989]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1629245929 20200426 21:44:11 DataProvider.php:539 [mysqlquery]-[0.00327897]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1629245929 20200426 21:44:11 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1629245929 20200426 21:44:11 DataProvider.php:539 [mysqlquery]-[0.00393200]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1629245929 20200426 21:44:11 DataProvider.php:383 RedisClosed: 0.10573602 REDIS_DB
+NOTICE 1629245929 20200426 21:44:11 DataProvider.php:373 MysqlClosed: 0.06422281 MYSQL_DB
+NOTICE 1630857374 20200426 21:44:27 DataProvider.php:317 [redisconnect]
+NOTICE 1630857374 20200426 21:44:27 DataProvider.php:254 [mysqlconnect]
+NOTICE 1630857374 20200426 21:44:27 DataProvider.php:539 [mysqlquery]-[0.00372601]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1630857374 20200426 21:44:27 DataProvider.php:539 [mysqlquery]-[0.00341010]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1630857374 20200426 21:44:27 DataProvider.php:539 [mysqlquery]-[0.00361586]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1630857374 20200426 21:44:27 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1630857374 20200426 21:44:27 DataProvider.php:539 [mysqlquery]-[0.00395322]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1630857374 20200426 21:44:27 DataProvider.php:383 RedisClosed: 0.09800220 REDIS_DB
+NOTICE 1630857374 20200426 21:44:27 DataProvider.php:373 MysqlClosed: 0.07414985 MYSQL_DB
+NOTICE 1644133824 20200426 21:46:40 DataProvider.php:317 [redisconnect]
+NOTICE 1644133824 20200426 21:46:40 DataProvider.php:254 [mysqlconnect]
+NOTICE 1644133824 20200426 21:46:40 DataProvider.php:539 [mysqlquery]-[0.00408912]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1644133824 20200426 21:46:40 DataProvider.php:539 [mysqlquery]-[0.00346899]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1644133824 20200426 21:46:40 DataProvider.php:539 [mysqlquery]-[0.00356793]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1644133824 20200426 21:46:40 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1644133824 20200426 21:46:40 DataProvider.php:539 [mysqlquery]-[0.00230002]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1644133824 20200426 21:46:40 DataProvider.php:383 RedisClosed: 0.09312701 REDIS_DB
+NOTICE 1644133824 20200426 21:46:40 DataProvider.php:373 MysqlClosed: 0.04368305 MYSQL_DB
+NOTICE 1645286430 20200426 21:46:51 DataProvider.php:317 [redisconnect]
+NOTICE 1645286430 20200426 21:46:51 DataProvider.php:254 [mysqlconnect]
+NOTICE 1645286430 20200426 21:46:51 DataProvider.php:539 [mysqlquery]-[0.00218606]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1645286430 20200426 21:46:51 DataProvider.php:539 [mysqlquery]-[0.00158381]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1645286430 20200426 21:46:51 DataProvider.php:539 [mysqlquery]-[0.00162697]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1645286430 20200426 21:46:51 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1645286430 20200426 21:46:51 DataProvider.php:539 [mysqlquery]-[0.00335503]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1645286430 20200426 21:46:51 DataProvider.php:539 [mysqlquery]-[0.00348091]-[select id,title,gid,ttype from llp_evaluation_tags where gid in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1645286430 20200426 21:46:51 DataProvider.php:383 RedisClosed: 0.05736995 REDIS_DB
+NOTICE 1645286430 20200426 21:46:51 DataProvider.php:373 MysqlClosed: 0.03364396 MYSQL_DB
+NOTICE 1646284750 20200426 21:47:01 DataProvider.php:317 [redisconnect]
+NOTICE 1646284750 20200426 21:47:01 DataProvider.php:254 [mysqlconnect]
+NOTICE 1646284750 20200426 21:47:01 DataProvider.php:539 [mysqlquery]-[0.00367188]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1646284750 20200426 21:47:01 DataProvider.php:539 [mysqlquery]-[0.00337887]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1646284750 20200426 21:47:01 DataProvider.php:539 [mysqlquery]-[0.00365090]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1646284750 20200426 21:47:01 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1646284750 20200426 21:47:01 DataProvider.php:539 [mysqlquery]-[0.00381017]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1646284750 20200426 21:47:01 DataProvider.php:539 [mysqlquery]-[0.00425291]-[select id,title,gid,ttype from llp_evaluation_tags where gid in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1646284750 20200426 21:47:01 DataProvider.php:383 RedisClosed: 0.10804296 REDIS_DB
+NOTICE 1646284750 20200426 21:47:01 DataProvider.php:373 MysqlClosed: 0.07392406 MYSQL_DB
+NOTICE 1647080141 20200426 21:47:09 DataProvider.php:317 [redisconnect]
+NOTICE 1647080141 20200426 21:47:09 DataProvider.php:254 [mysqlconnect]
+NOTICE 1647080141 20200426 21:47:09 DataProvider.php:539 [mysqlquery]-[0.00291300]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1647080141 20200426 21:47:09 DataProvider.php:539 [mysqlquery]-[0.00279117]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1647080141 20200426 21:47:09 DataProvider.php:539 [mysqlquery]-[0.00321102]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1647080141 20200426 21:47:09 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1647080141 20200426 21:47:09 DataProvider.php:539 [mysqlquery]-[0.00400996]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1647080141 20200426 21:47:09 DataProvider.php:539 [mysqlquery]-[0.00422502]-[select id,title,gid,ttype from llp_evaluation_tags where gid in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1647080141 20200426 21:47:09 DataProvider.php:383 RedisClosed: 0.10768008 REDIS_DB
+NOTICE 1647080141 20200426 21:47:09 DataProvider.php:373 MysqlClosed: 0.06785202 MYSQL_DB
+NOTICE 1648265594 20200426 21:47:21 DataProvider.php:317 [redisconnect]
+NOTICE 1648265594 20200426 21:47:21 DataProvider.php:254 [mysqlconnect]
+NOTICE 1648265594 20200426 21:47:21 DataProvider.php:539 [mysqlquery]-[0.00247812]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1648265594 20200426 21:47:21 DataProvider.php:539 [mysqlquery]-[0.00222802]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1648265594 20200426 21:47:21 DataProvider.php:539 [mysqlquery]-[0.00246906]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1648265594 20200426 21:47:21 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1648265594 20200426 21:47:21 DataProvider.php:539 [mysqlquery]-[0.00211596]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1648265594 20200426 21:47:21 DataProvider.php:539 [mysqlquery]-[0.04906607]-[select id,title,gid,ttype from llp_evaluation_tags where gid in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1648265594 20200426 21:47:21 DataProvider.php:383 RedisClosed: 0.13115311 REDIS_DB
+NOTICE 1648265594 20200426 21:47:21 DataProvider.php:373 MysqlClosed: 0.08230901 MYSQL_DB
+NOTICE 1648931318 20200426 21:47:28 DataProvider.php:317 [redisconnect]
+NOTICE 1648931318 20200426 21:47:28 DataProvider.php:254 [mysqlconnect]
+NOTICE 1648931318 20200426 21:47:28 DataProvider.php:539 [mysqlquery]-[0.00310397]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1648931318 20200426 21:47:28 DataProvider.php:539 [mysqlquery]-[0.00262022]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1648931318 20200426 21:47:28 DataProvider.php:539 [mysqlquery]-[0.00251508]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1648931318 20200426 21:47:28 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1648931318 20200426 21:47:28 DataProvider.php:539 [mysqlquery]-[0.00194097]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1648931318 20200426 21:47:28 DataProvider.php:539 [mysqlquery]-[0.00201297]-[select id,title,gid,ttype from llp_evaluation_tags where gid in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1648931318 20200426 21:47:28 DataProvider.php:383 RedisClosed: 0.09113121 REDIS_DB
+NOTICE 1648931318 20200426 21:47:28 DataProvider.php:373 MysqlClosed: 0.04631114 MYSQL_DB
+NOTICE 1650502662 20200426 21:47:44 DataProvider.php:317 [redisconnect]
+NOTICE 1650502662 20200426 21:47:44 DataProvider.php:254 [mysqlconnect]
+NOTICE 1650502662 20200426 21:47:44 DataProvider.php:539 [mysqlquery]-[0.00350404]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1650502662 20200426 21:47:44 DataProvider.php:539 [mysqlquery]-[0.00297403]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1650502662 20200426 21:47:44 DataProvider.php:539 [mysqlquery]-[0.00341296]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1650502662 20200426 21:47:44 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1650502662 20200426 21:47:44 DataProvider.php:539 [mysqlquery]-[0.00346017]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1650502662 20200426 21:47:44 DataProvider.php:539 [mysqlquery]-[0.00401092]-[select id,title,gid,ttype from llp_evaluation_tags where gid in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1650502662 20200426 21:47:44 DataProvider.php:383 RedisClosed: 0.12058806 REDIS_DB
+NOTICE 1650502662 20200426 21:47:44 DataProvider.php:373 MysqlClosed: 0.07098699 MYSQL_DB
+NOTICE 1651302442 20200426 21:47:52 DataProvider.php:317 [redisconnect]
+NOTICE 1651302442 20200426 21:47:52 DataProvider.php:254 [mysqlconnect]
+NOTICE 1651302442 20200426 21:47:52 DataProvider.php:539 [mysqlquery]-[0.00359917]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1651302442 20200426 21:47:52 DataProvider.php:539 [mysqlquery]-[0.00373197]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1651302442 20200426 21:47:52 DataProvider.php:539 [mysqlquery]-[0.00411892]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1651302442 20200426 21:47:52 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1651302442 20200426 21:47:52 DataProvider.php:539 [mysqlquery]-[0.00367713]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1651302442 20200426 21:47:52 DataProvider.php:539 [mysqlquery]-[0.00417113]-[select id,title,gid,ttype from llp_evaluation_tags where gid in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1651302442 20200426 21:47:52 DataProvider.php:383 RedisClosed: 0.11474705 REDIS_DB
+NOTICE 1651302442 20200426 21:47:52 DataProvider.php:373 MysqlClosed: 0.07140112 MYSQL_DB
+NOTICE 1651970783 20200426 21:47:58 DataProvider.php:317 [redisconnect]
+NOTICE 1651970783 20200426 21:47:58 DataProvider.php:254 [mysqlconnect]
+NOTICE 1651970783 20200426 21:47:58 DataProvider.php:539 [mysqlquery]-[0.00293398]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1651970783 20200426 21:47:58 DataProvider.php:539 [mysqlquery]-[0.00289512]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1651970783 20200426 21:47:58 DataProvider.php:539 [mysqlquery]-[0.00348306]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1651970783 20200426 21:47:58 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1651970783 20200426 21:47:58 DataProvider.php:539 [mysqlquery]-[0.00349903]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1651970783 20200426 21:47:58 DataProvider.php:539 [mysqlquery]-[0.00325418]-[select id,title,gid,ttype from llp_evaluation_tags where gid in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1651970783 20200426 21:47:58 DataProvider.php:383 RedisClosed: 0.10479999 REDIS_DB
+NOTICE 1651970783 20200426 21:47:58 DataProvider.php:373 MysqlClosed: 0.05820394 MYSQL_DB
+NOTICE 1654085607 20200426 21:48:19 DataProvider.php:317 [redisconnect]
+NOTICE 1654085607 20200426 21:48:19 DataProvider.php:254 [mysqlconnect]
+NOTICE 1654085607 20200426 21:48:19 DataProvider.php:539 [mysqlquery]-[0.00188589]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1654085607 20200426 21:48:19 DataProvider.php:539 [mysqlquery]-[0.00290203]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1654085607 20200426 21:48:19 DataProvider.php:539 [mysqlquery]-[0.00407815]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1654085607 20200426 21:48:19 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1654085607 20200426 21:48:19 DataProvider.php:539 [mysqlquery]-[0.00358582]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1654085607 20200426 21:48:19 DataProvider.php:539 [mysqlquery]-[0.00383997]-[select id,title,gid,ttype from llp_evaluation_tags where gid in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1654085607 20200426 21:48:19 DataProvider.php:383 RedisClosed: 0.08650804 REDIS_DB
+NOTICE 1654085607 20200426 21:48:19 DataProvider.php:373 MysqlClosed: 0.06006193 MYSQL_DB
+NOTICE 1657933974 20200426 21:48:58 DataProvider.php:317 [redisconnect]
+NOTICE 1657933974 20200426 21:48:58 DataProvider.php:254 [mysqlconnect]
+NOTICE 1657933974 20200426 21:48:58 DataProvider.php:539 [mysqlquery]-[0.00447416]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1657933974 20200426 21:48:58 DataProvider.php:539 [mysqlquery]-[0.00339103]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1657933974 20200426 21:48:58 DataProvider.php:539 [mysqlquery]-[0.00341892]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1657933974 20200426 21:48:58 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1657933974 20200426 21:48:58 DataProvider.php:539 [mysqlquery]-[0.00403285]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1657933974 20200426 21:48:58 DataProvider.php:539 [mysqlquery]-[0.00329709]-[select id,title,gid,ttype from llp_evaluation_tags where gid in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1657933974 20200426 21:48:58 DataProvider.php:383 RedisClosed: 0.11086702 REDIS_DB
+NOTICE 1657933974 20200426 21:48:58 DataProvider.php:373 MysqlClosed: 0.07325697 MYSQL_DB
+NOTICE 1664105938 20200426 21:50:00 DataProvider.php:317 [redisconnect]
+NOTICE 1664105938 20200426 21:50:00 DataProvider.php:254 [mysqlconnect]
+NOTICE 1664105938 20200426 21:50:00 DataProvider.php:539 [mysqlquery]-[0.00306201]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1664105938 20200426 21:50:00 DataProvider.php:539 [mysqlquery]-[0.00297403]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1664105938 20200426 21:50:00 DataProvider.php:539 [mysqlquery]-[0.00365400]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1664105938 20200426 21:50:00 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1664105938 20200426 21:50:00 DataProvider.php:539 [mysqlquery]-[0.00275588]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1664105938 20200426 21:50:00 DataProvider.php:539 [mysqlquery]-[0.00382519]-[select id,title,gid,ttype from llp_evaluation_tags where gid in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1664105938 20200426 21:50:00 DataProvider.php:383 RedisClosed: 0.08286214 REDIS_DB
+NOTICE 1664105938 20200426 21:50:00 DataProvider.php:373 MysqlClosed: 0.04579997 MYSQL_DB
+NOTICE 1667862569 20200426 21:50:37 DataProvider.php:317 [redisconnect]
+NOTICE 1667862569 20200426 21:50:37 DataProvider.php:254 [mysqlconnect]
+NOTICE 1667862569 20200426 21:50:37 DataProvider.php:539 [mysqlquery]-[0.00260401]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1667862569 20200426 21:50:37 DataProvider.php:539 [mysqlquery]-[0.00331402]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1667862569 20200426 21:50:37 DataProvider.php:539 [mysqlquery]-[0.00321507]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1667862569 20200426 21:50:37 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1667862569 20200426 21:50:37 DataProvider.php:539 [mysqlquery]-[0.00211906]-[select id,cn_name,fr_name,pic,cn_pinyin from llp_brand where id in (148,176,147,163,2428,179,172,798,1255,2772,79,120,5033,4504,3581) and `status` =1]
+NOTICE 1667862569 20200426 21:50:37 DataProvider.php:539 [mysqlquery]-[0.00374198]-[select id,title,gid,ttype from llp_evaluation_tags where gid in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1667862569 20200426 21:50:37 DataProvider.php:383 RedisClosed: 0.10195899 REDIS_DB
+NOTICE 1667862569 20200426 21:50:37 DataProvider.php:373 MysqlClosed: 0.05260420 MYSQL_DB
+NOTICE 1670149824 20200426 21:51:00 DataProvider.php:317 [redisconnect]
+NOTICE 1670149824 20200426 21:51:00 DataProvider.php:254 [mysqlconnect]
+NOTICE 1670149824 20200426 21:51:00 DataProvider.php:539 [mysqlquery]-[0.00370908]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1670149824 20200426 21:51:00 DataProvider.php:539 [mysqlquery]-[0.00331807]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1670149824 20200426 21:51:00 DataProvider.php:539 [mysqlquery]-[0.00373292]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1670149824 20200426 21:51:00 DataProvider.php:539 [mysqlquery]-[0.00394511]-[select id,title,gid,ttype from llp_evaluation_tags where gid in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1670149824 20200426 21:51:00 DataProvider.php:383 RedisClosed: 0.04910398 REDIS_DB
+NOTICE 1670149824 20200426 21:51:00 DataProvider.php:373 MysqlClosed: 0.02768397 MYSQL_DB
+NOTICE 1673625512 20200426 21:51:35 DataProvider.php:317 [redisconnect]
+NOTICE 1673625512 20200426 21:51:35 DataProvider.php:254 [mysqlconnect]
+NOTICE 1673625512 20200426 21:51:35 DataProvider.php:539 [mysqlquery]-[0.00231290]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1673625512 20200426 21:51:35 DataProvider.php:539 [mysqlquery]-[0.00340414]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (1407,9,1404,42,32,61,6,1405,29,31,8,63,12,3,58,23,24,21,37,4,7) and `status`=1]
+NOTICE 1673625512 20200426 21:51:35 DataProvider.php:539 [mysqlquery]-[0.00266194]-[select id,title,gid,ttype from llp_evaluation_tags where gid in (1407,9,1404,42,32,61,6,1405,29,31,8,63,12,3,58,23,24,21,37,4,7) and `status`=1]
+NOTICE 1673625512 20200426 21:51:35 DataProvider.php:383 RedisClosed: 0.04481506 REDIS_DB
+NOTICE 1673625512 20200426 21:51:35 DataProvider.php:373 MysqlClosed: 0.01075602 MYSQL_DB
+NOTICE 1674432936 20200426 21:51:43 DataProvider.php:317 [redisconnect]
+NOTICE 1674432936 20200426 21:51:43 DataProvider.php:254 [mysqlconnect]
+NOTICE 1674432936 20200426 21:51:43 DataProvider.php:539 [mysqlquery]-[0.00347018]-[select gid from llp_evaluation_goods_collect where uid=10004 and `status`=1 order by add_time desc limit 6]
+NOTICE 1674432936 20200426 21:51:43 DataProvider.php:539 [mysqlquery]-[0.00305080]-[SELECT * FROM `llp_evaluation_search` WHERE `type` = 2 ORDER BY `rank` asc]
+NOTICE 1674432936 20200426 21:51:43 DataProvider.php:539 [mysqlquery]-[0.00299311]-[select id,title,brand,pic,cs,price from llp_base_commodity where id in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1674432936 20200426 21:51:43 DataProvider.php:539 [mysqlquery]-[0.00390911]-[select id,title,gid,ttype from llp_evaluation_tags where gid in (24,10,8,9,97,7,1407,1404,42,32,61,6,1405,29,31,63,12,3,58,23,21,37,4) and `status`=1]
+NOTICE 1674432936 20200426 21:51:43 DataProvider.php:383 RedisClosed: 0.06204605 REDIS_DB
+NOTICE 1674432936 20200426 21:51:43 DataProvider.php:373 MysqlClosed: 0.02703500 MYSQL_DB
+NOTICE 1682612407 20200426 21:53:05 DataProvider.php:317 [redisconnect]
+NOTICE 1682612407 20200426 21:53:05 DataProvider.php:383 RedisClosed: 0.02350402 REDIS_DB
+NOTICE 1685409873 20200426 21:53:33 DataProvider.php:317 [redisconnect]
+NOTICE 1685409873 20200426 21:53:33 DataProvider.php:254 [mysqlconnect]
+NOTICE 1685409873 20200426 21:53:33 DataProvider.php:539 [mysqlquery]-[0.00567102]-[select `id`,`title`,`pic`,`brand` as brand_id from llp_base_commodity where `status` = 1 and brand = 148 order by id desc limit 0, 10]
+NOTICE 1685409873 20200426 21:53:33 DataProvider.php:539 [mysqlquery]-[0.00376701]-[select id,title,gid,ttype from llp_evaluation_tags where gid in (2341,2340,2339,2338,2337,2336,2335,2334,2333,2332) and `status`=1]
+NOTICE 1685409873 20200426 21:53:33 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1685409873 20200426 21:53:33 DataProvider.php:539 [mysqlquery]-[0.00368619]-[SELECT * FROM `llp_brand` WHERE `id` = 148 AND `status` = 1 LIMIT 1]
+NOTICE 1685409873 20200426 21:53:33 DataProvider.php:383 RedisClosed: 0.15326595 REDIS_DB
+NOTICE 1685409873 20200426 21:53:33 DataProvider.php:373 MysqlClosed: 0.06889391 MYSQL_DB
+NOTICE 1690297701 20200426 21:54:21 DataProvider.php:317 [redisconnect]
+NOTICE 1690297701 20200426 21:54:22 DataProvider.php:254 [mysqlconnect]
+NOTICE 1690297701 20200426 21:54:22 DataProvider.php:539 [mysqlquery]-[0.00410199]-[select `id`,`title`,`pic`,`brand` as brand_id from llp_base_commodity where `status` = 1 and brand = 148 order by id desc limit 0, 10]
+NOTICE 1690297701 20200426 21:54:22 DataProvider.php:539 [mysqlquery]-[0.00369692]-[select id,title,gid,ttype from llp_evaluation_tags where gid in (2341,2340,2339,2338,2337,2336,2335,2334,2333,2332) and `status`=1]
+NOTICE 1690297701 20200426 21:54:22 ELKSDK.php:66 [ELKSDK]-[init]-[a:1:{i:0;s:2:"qa";}]-ok
+NOTICE 1690297701 20200426 21:54:22 DataProvider.php:539 [mysqlquery]-[0.00309205]-[SELECT * FROM `llp_brand` WHERE `id` = 148 AND `status` = 1 LIMIT 1]
+NOTICE 1690297701 20200426 21:54:22 DataProvider.php:383 RedisClosed: 0.11462307 REDIS_DB
+NOTICE 1690297701 20200426 21:54:22 DataProvider.php:373 MysqlClosed: 0.06537795 MYSQL_DB
+NOTICE 1966130261 20200426 22:40:20 DataProvider.php:317 [redisconnect]
+NOTICE 1966130261 20200426 22:40:20 DataProvider.php:254 [mysqlconnect]
+NOTICE 1966130261 20200426 22:40:20 DataProvider.php:539 [mysqlquery]-[0.00400901]-[select `id`,`title`,`desc`,`bg_pic`,`user` from llp_evaluation_board where `status` = 1 order by sorder desc, id desc]
+NOTICE 1966130261 20200426 22:40:20 DataProvider.php:383 RedisClosed: 0.06310701 REDIS_DB
+NOTICE 1966130261 20200426 22:40:20 DataProvider.php:373 MysqlClosed: 0.01608515 MYSQL_DB
+NOTICE 1966357523 20200426 22:40:22 DataProvider.php:317 [redisconnect]
+NOTICE 1966357523 20200426 22:40:22 DataProvider.php:254 [mysqlconnect]
+NOTICE 1966357523 20200426 22:40:22 DataProvider.php:539 [mysqlquery]-[0.00188708]-[select `id`,`title`,`desc`,`bg_pic`,`user` from llp_evaluation_board where `status` = 1 order by sorder desc, id desc]
+NOTICE 1966357523 20200426 22:40:22 DataProvider.php:383 RedisClosed: 0.03040791 REDIS_DB
+NOTICE 1966357523 20200426 22:40:22 DataProvider.php:373 MysqlClosed: 0.00313306 MYSQL_DB
+NOTICE 1968337089 20200426 22:40:42 DataProvider.php:317 [redisconnect]
+NOTICE 1968337089 20200426 22:40:42 DataProvider.php:254 [mysqlconnect]
+NOTICE 1968337089 20200426 22:40:42 DataProvider.php:539 [mysqlquery]-[0.00358486]-[select `id`,`title`,`desc`,`bg_pic`,`user` from llp_evaluation_board where `status` = 1 order by sorder desc, id desc]
+NOTICE 1968337089 20200426 22:40:42 DataProvider.php:539 [mysqlquery]-[0.00362182]-[select `gid`,`title`,`tags`,`bg_pic`,`score`,`cnum`,`rank`,`cptags` from llp_evaluation_board_goods where `bdid` = 1 order by rank desc, id desc  limit 3]
+NOTICE 1968337089 20200426 22:40:42 DataProvider.php:383 RedisClosed: 0.07243800 REDIS_DB
+NOTICE 1968337089 20200426 22:40:42 DataProvider.php:373 MysqlClosed: 0.01885700 MYSQL_DB
+NOTICE 1971641911 20200426 22:41:15 DataProvider.php:317 [redisconnect]
+NOTICE 1971641911 20200426 22:41:15 DataProvider.php:254 [mysqlconnect]
+NOTICE 1971641911 20200426 22:41:15 DataProvider.php:539 [mysqlquery]-[0.00416803]-[select `id`,`title`,`desc`,`bg_pic`,`user` from llp_evaluation_board where `status` = 1 order by sorder desc, id desc]
+NOTICE 1971641911 20200426 22:41:15 DataProvider.php:539 [mysqlquery]-[0.05360007]-[select `gid`,`title`,`tags`,`bg_pic`,`score`,`cnum`,`rank`,`cptags` from llp_evaluation_board_goods where `bdid` = 1 order by rank desc, id desc  limit 3]
+NOTICE 1971641911 20200426 22:41:15 DataProvider.php:383 RedisClosed: 0.12123084 REDIS_DB
+NOTICE 1971641911 20200426 22:41:15 DataProvider.php:373 MysqlClosed: 0.07092905 MYSQL_DB
+NOTICE 1976982330 20200426 22:42:08 DataProvider.php:317 [redisconnect]
+NOTICE 1976982330 20200426 22:42:08 DataProvider.php:254 [mysqlconnect]
+NOTICE 1976982330 20200426 22:42:08 DataProvider.php:539 [mysqlquery]-[0.00387692]-[select `id`,`title`,`desc`,`bg_pic`,`user` from llp_evaluation_board where `status` = 1 order by sorder desc, id desc]
+NOTICE 1976982330 20200426 22:42:08 DataProvider.php:539 [mysqlquery]-[0.00338984]-[select `gid`,`title`,`tags`,`bg_pic`,`score`,`cnum`,`rank`,`cptags` from llp_evaluation_board_goods where `bdid` = 1 order by rank desc, id desc  limit 3]
+NOTICE 1976982330 20200426 22:42:08 DataProvider.php:383 RedisClosed: 0.05006099 REDIS_DB
+NOTICE 1976982330 20200426 22:42:08 DataProvider.php:373 MysqlClosed: 0.01945710 MYSQL_DB
+NOTICE 1981215732 20200426 22:42:51 DataProvider.php:317 [redisconnect]
+NOTICE 1981215732 20200426 22:42:51 DataProvider.php:254 [mysqlconnect]
+NOTICE 1981215732 20200426 22:42:51 DataProvider.php:539 [mysqlquery]-[0.00258088]-[select `id`,`title`,`desc`,`bg_pic`,`user` from llp_evaluation_board where `status` = 1 order by sorder desc, id desc]
+NOTICE 1981215732 20200426 22:42:51 DataProvider.php:539 [mysqlquery]-[0.00317097]-[select `gid`,`title`,`tags`,`bg_pic`,`score`,`cnum`,`rank`,`cptags` from llp_evaluation_board_goods where `bdid` = 1 order by rank desc, id desc  limit 3]
+NOTICE 1981215732 20200426 22:42:51 DataProvider.php:383 RedisClosed: 0.05299807 REDIS_DB
+NOTICE 1981215732 20200426 22:42:51 DataProvider.php:373 MysqlClosed: 0.00822306 MYSQL_DB
+NOTICE 1984767956 20200426 22:43:26 DataProvider.php:317 [redisconnect]
+NOTICE 1984767956 20200426 22:43:26 DataProvider.php:254 [mysqlconnect]
+NOTICE 1984767956 20200426 22:43:26 DataProvider.php:539 [mysqlquery]-[0.00384498]-[select `id`,`title`,`desc`,`bg_pic`,`user` from llp_evaluation_board where `status` = 1 order by sorder desc, id desc]
+NOTICE 1984767956 20200426 22:43:26 DataProvider.php:539 [mysqlquery]-[0.00342321]-[select `gid`,`title`,`tags`,`bg_pic`,`score`,`cnum`,`rank`,`cptags` from llp_evaluation_board_goods where `bdid` = 1 order by rank desc, id desc  limit 3]
+NOTICE 1984767956 20200426 22:43:26 DataProvider.php:383 RedisClosed: 0.05020094 REDIS_DB
+NOTICE 1984767956 20200426 22:43:26 DataProvider.php:373 MysqlClosed: 0.00990701 MYSQL_DB
+NOTICE 2005671710 20200426 22:46:55 DataProvider.php:317 [redisconnect]
+NOTICE 2005671710 20200426 22:46:55 DataProvider.php:254 [mysqlconnect]
+NOTICE 2005671710 20200426 22:46:55 DataProvider.php:539 [mysqlquery]-[0.00400591]-[select `id`,`title`,`desc`,`bg_pic`,`user` from llp_evaluation_board where `status` = 1 order by sorder desc, id desc]
+NOTICE 2005671710 20200426 22:46:55 DataProvider.php:539 [mysqlquery]-[0.00320506]-[select `gid`,`title`,`tags`,`bg_pic`,`score`,`cnum`,`rank`,`cptags` from llp_evaluation_board_goods where `bdid` = 1 order by rank desc, id desc  limit 3]
+NOTICE 2005671710 20200426 22:46:55 DataProvider.php:383 RedisClosed: 0.06418586 REDIS_DB
+NOTICE 2005671710 20200426 22:46:55 DataProvider.php:373 MysqlClosed: 0.01933384 MYSQL_DB
+NOTICE 2005813426 20200426 22:46:57 DataProvider.php:317 [redisconnect]
+NOTICE 2005813426 20200426 22:46:57 DataProvider.php:254 [mysqlconnect]
+NOTICE 2005813426 20200426 22:46:57 DataProvider.php:539 [mysqlquery]-[0.00336003]-[select `id`,`title`,`desc`,`bg_pic`,`user` from llp_evaluation_board where `status` = 1 order by sorder desc, id desc]
+NOTICE 2005813426 20200426 22:46:57 DataProvider.php:539 [mysqlquery]-[0.00384283]-[select `gid`,`title`,`tags`,`bg_pic`,`score`,`cnum`,`rank`,`cptags` from llp_evaluation_board_goods where `bdid` = 1 order by rank desc, id desc  limit 3]
+NOTICE 2005813426 20200426 22:46:57 DataProvider.php:383 RedisClosed: 0.06819391 REDIS_DB
+NOTICE 2005813426 20200426 22:46:57 DataProvider.php:373 MysqlClosed: 0.01879501 MYSQL_DB
